@@ -1,2 +1,3 @@
-# pesanku-app
-✨ | Aplikasi mengirim pesan !
+# Pesanku App
+
+Aplikasi pengirim pesan sederhana
